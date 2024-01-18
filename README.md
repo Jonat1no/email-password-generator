@@ -10,8 +10,11 @@ The program will take the input and will put your domain at the end
 Example:
 
 example1@yourdomain.net
+-----------------------
 example2@yourdomain.net
+-----------------------
 example3@yourdomain.net
+----------------------
 
 And will generate random 10 character password
 
