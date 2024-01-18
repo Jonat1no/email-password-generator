@@ -22,6 +22,6 @@ All of the emails and its passords will export to the same folder as the program
 
 ![image](https://github.com/Jonat1no/email-password-generator/assets/74206519/ffb660df-290a-4f27-a054-7f498ec2e136)
 
-![image](https://github.com/Jonat1no/email-password-generator/assets/74206519/5f0fdd3d-ab34-47d6-a7f9-1d1aa1750a37)
+![image](https://github.com/Jonat1no/email-password-generator/assets/74206519/2be47534-5aa1-4842-a7fe-8b274a8f0430)
 
 
